@@ -47,7 +47,7 @@
 📫 **Connect with Me**
 <!-- Add your actual links below -->
 - [GitHub](https://github.com/2abet)
-<!-- - [LinkedIn](https://linkedin.com/in/yourprofile) -->
+- [LinkedIn](https://linkedin.com/in/yemiarabambi)
 <!-- - [Twitter](https://twitter.com/yourhandle) -->
 <!-- - [Personal Website](https://your-website.com) -->
 
