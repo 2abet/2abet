@@ -34,7 +34,6 @@
 ## 🧠 Tech Stack  
 
 <p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="
       https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white,
       https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white,
@@ -65,7 +64,6 @@
     <img alt="Tech Stack" src="
       https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
     "/>
-  </picture>
 </p>
 
 
