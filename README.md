@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Akinyemi Arabambi 👋</h1>
+<h1 align="center">Hi there, I'm Akinyemi Arabambi</h1>
 <h3 align="center">aka 2abet | ML/AI Engineer</h3>
 
 <p align="center">
@@ -7,22 +7,22 @@
 
 ---
 
-🌟 **About Me**
-- 🧑‍💻 Passionate about building intelligent systems and solving real-world problems with AI and machine learning.
-- 🛠️ Experienced with Python, PyTorch, TensorFlow, scikit-learn, and data science toolkits.
-- 📊 Enjoys working on NLP, computer vision, and data-driven projects.
-- 🚀 Open-source enthusiast—always learning and sharing knowledge!
+ **About Me**
+-  Passionate about building intelligent systems and solving real-world problems with AI and machine learning.
+-  Experienced with Python, PyTorch, TensorFlow, scikit-learn, and data science toolkits.
+-  Enjoys working on NLP, computer vision, and data-driven projects.
+-  Open-source enthusiast—always learning and sharing knowledge!
 
 ---
 
-🔬 **What I Do**
+ **What I Do**
 - Develop and deploy ML models from prototype to production.
 - Explore and experiment with the latest in AI research.
 - Contribute to open source & collaborate on innovative projects.
 
 ---
 
-💡 **Featured Projects**
+ **Featured Projects**
 <!-- Uncomment and customize with your repos! -->
 <!--
 - [Project Name](https://github.com/2abet/project-name): Short description of what it does.
@@ -31,9 +31,9 @@
 
 ---
 
-## 🧠 Tech Stack  
+##  Tech Stack  
 
-### 🤖 AI & Machine Learning  
+###  AI & Machine Learning  
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/BeeAI-FDB827?style=for-the-badge&logo=beehiiv&logoColor=black"/>
 </p>
 
-### ⚙️ Automation & Orchestration  
+###  Automation & Orchestration  
 <p align="center">
   <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white"/>
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Milvus-1C1C1C?style=for-the-badge&logo=milvus&logoColor=white"/>
 </p>
 
-### 🏗️ Infrastructure & Systems  
+###  Infrastructure & Systems  
 <p align="center">
   <img src="https://img.shields.io/badge/IBM%20Power10-0066CC?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white"/>
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/SQL%20%2F%20DB2%20for%20i-4479A1?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
-### 🧩 Frontend & APIs  
+###  Frontend & APIs  
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
@@ -76,14 +76,14 @@
 
 ---
 
-📫 **Connect with Me**
+ **Connect with Me**
 - [GitHub](https://github.com/2abet)
 - [LinkedIn](https://linkedin.com/in/yemiarabambi)
 
 
 ---
 
-✨ **Fun Fact**
+ **Fun Fact**
 > "AI is not just about algorithms — it's about impact."  
 <!-- Or add your favorite quote or fun fact here! -->
 
